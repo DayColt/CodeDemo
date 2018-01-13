@@ -63,7 +63,7 @@ namespace LinkHandler.Core
 
         private void HtmlAnalysis(string link, string htmlSource, string pattern)
         {
-            // TODO Some useful analysis logic. This is just example.
+            // TODO Полезную логику. Здесь в качестве примера, что что-то обрабатывается в тексте.
             int index = htmlSource.IndexOf(pattern);
             OnNewData($"{link} contains {pattern} at index {index}");
         }
