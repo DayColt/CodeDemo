@@ -1,0 +1,16 @@
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\bin\Debug\LinkHandler.exe.config
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\bin\Debug\LinkHandler.exe
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\bin\Debug\LinkHandler.pdb
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\MainWindow.g.cs
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\App.g.cs
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler_Content.g.cs
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler_MarkupCompile.cache
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler_MarkupCompile.lref
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\MainWindow.baml
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.g.resources
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.Properties.Resources.resources
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.csproj.GenerateResource.Cache
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.exe
+D:\Work\GitHub\CodeDemo\LinkHandler\LinkHandler\obj\Debug\LinkHandler.pdb
